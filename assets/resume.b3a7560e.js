@@ -1,0 +1,1 @@
+import{s as a,a as r,c as t,b as s}from"./app.c22fddc2.js";const e={},c={class:"text-gray-700 dark:text-gray-200"};e.render=function(e,n){const o=a("router-view");return r(),t("main",c,[s(o)])};export{e as default};
